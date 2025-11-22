@@ -1,0 +1,5 @@
+{
+  "name": "OptiSolve AI: Simplex Dashboard",
+  "description": "An interactive Linear Programming dashboard that solves optimization problems using the Simplex method. Features natural language problem parsing via Gemini 2.5 Flash and real-time 2D graphical visualization.",
+  "requestFramePermissions": []
+}
